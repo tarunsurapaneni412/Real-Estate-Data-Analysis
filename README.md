@@ -14,3 +14,5 @@ This Project Includes:
 Libraries used: urllib,BeautifulSoup,Numpy,Pandas,re,matplotlib.
 
 The BAREDA.ipynb consits of the coding part of extracting cleaning and then loading the final data into a excel sheet(csv format)
+
+The BAREDV.ipynb consits of the coding part for visualization of data and the respected graphs plotted.
