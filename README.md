@@ -3,7 +3,7 @@ Bay Area Real estate Data analysis.
 
 This Project Includes:
                       
-                      1) Scraping data form Zillow website using beautifulsoup 
+                      1) Scraping data form Zillow website 
                       
                       2) Cleaning Data 
                       
